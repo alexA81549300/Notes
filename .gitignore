@@ -15,3 +15,14 @@
 .obsidian/
 
 .DS_Store
+# Hermes guard
+backups/
+logs/
+*.tar
+*.tar.*
+*.zip
+*.zst
+*.gz
+*.tmp
+*.swp
+*.swo
